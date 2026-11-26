@@ -135,7 +135,7 @@ InvoiceStudio/
 ## Clone Repository
 
 ```bash
-git clone git clone https://github.com/jaspritxbytebloom/Invoice-Studio.git
+git clone https://github.com/jaspritxbytebloom/Invoice-Studio.git
 ```
 
 ---
