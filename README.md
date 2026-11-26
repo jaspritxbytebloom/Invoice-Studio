@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<strong>Professional Invoice Management System Built with PHP & MySQL</strong>
+<strong> A PHP 8+ and MySQL-based invoice management application featuring client management, service catalogues, invoice generation, PDF exports and billing workflows. </strong>
 </p>
 
 <p align="center">
