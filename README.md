@@ -1,8 +1,8 @@
 # Invoice Studio 
 
-<p align="center">
-  <img src="assets/images/logo.png" width="140" alt="Invoice Studio Logo">
-</p>
+<div align="center">
+  <img src="invoice-studio-logo.png" width="90%" alt="Invoice Studio - Invoice and Billing Management System">
+</div>
 
 <p align="center">
 <strong> A PHP 8+ and MySQL-based invoice management application featuring client management, service catalogues, invoice generation, PDF exports and billing workflows. </strong>
