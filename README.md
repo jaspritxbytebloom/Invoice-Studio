@@ -8,9 +8,6 @@
 <strong> A PHP 8+ and MySQL-based invoice management application featuring client management, service catalogues, invoice generation, PDF exports and billing workflows. </strong>
 </p>
 
-<p align="center">
-Create professional invoices, manage clients, organize your service catalogue, generate PDF invoices, and streamline your billing workflow from a clean, responsive web interface.
-</p>
 
 <p align="center">
 
