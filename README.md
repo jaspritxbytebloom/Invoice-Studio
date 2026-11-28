@@ -49,6 +49,12 @@ Screenshots are intended to demonstrate the application's user interface and sel
 ### Invoice Management — Filters
 ![Invoice Management Filters](06-invoice-management-filter.png)
 
+### Payment Confirmation Email
+![Payment Confirmation Email](07-payment-confirmation-email.png)
+
+### Invoice PDF
+![Invoice PDF](08-invoice-pdf.png)
+
 <!--
 After adding sanitized screenshots to a screenshots/ folder, uncomment and update this gallery.
 
