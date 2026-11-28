@@ -32,22 +32,22 @@ Screenshots are intended to demonstrate the application's user interface and sel
 ## Screenshots
 
 ### Dashboard
-![Invoice Studio Dashboard](screenshots/01-dashboard.png)
+![Invoice Studio Dashboard](01-dashboard.png)
 
 ### Client Management
-![Client Management](screenshots/02-client-management.png)
+![Client Management](02-client-management.png)
 
 ### Reports
-![Reports Dashboard](screenshots/03-reports.png)
+![Reports Dashboard](03-reports.png)
 
 ### Service Catalog
-![Service Catalog](screenshots/04-service-catalog.png)
+![Service Catalog](04-service-catalog.png)
 
 ### Invoice Management
-![Invoice Management](screenshots/05-invoice-management.png)
+![Invoice Management](05-invoice-management.png)
 
 ### Invoice Management — Filters
-![Invoice Management Filters](screenshots/06-invoice-management-filter.png)
+![Invoice Management Filters](06-invoice-management-filter.png)
 
 <!--
 After adding sanitized screenshots to a screenshots/ folder, uncomment and update this gallery.
